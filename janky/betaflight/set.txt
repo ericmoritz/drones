@@ -1,12 +1,10 @@
-CLI
-
 # set
 Current settings: 
 task_statistics = ON
 mid_rc = 1500
 min_check = 1100
 max_check = 1900
-rssi_channel = 0
+rssi_channel = 16
 rssi_scale = 30
 rc_interp = AUTO
 rc_interp_ch = RP
@@ -194,7 +192,7 @@ osd_cap_alarm = 1000
 osd_time_alarm = 10
 osd_alt_alarm = 100
 osd_vbat_pos = 2369
-osd_rssi_pos = 342
+osd_rssi_pos = 2390
 osd_flytimer_pos = 2454
 osd_ontimer_pos = 2422
 osd_flymode_pos = 2102

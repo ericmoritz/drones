@@ -1443,7 +1443,7 @@
 		"gps_baudrate": 0,
 		"gps_ubx_sbas": 0,
 		"multiwiicurrentoutput": 0,
-		"rssi_channel": 0,
+		"rssi_channel": 16,
 		"placeholder2": 0,
 		"mag_declination": 0,
 		"vbatscale": 110,
