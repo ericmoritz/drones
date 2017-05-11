@@ -164,15 +164,7 @@
 					"id": 0,
 					"auxChannelIndex": 0,
 					"range": {
-						"start": 925,
-						"end": 1050
-					}
-				},
-				{
-					"id": 4,
-					"auxChannelIndex": 0,
-					"range": {
-						"start": 900,
+						"start": 1925,
 						"end": 2100
 					}
 				},
@@ -180,16 +172,8 @@
 					"id": 1,
 					"auxChannelIndex": 1,
 					"range": {
-						"start": 925,
-						"end": 1100
-					}
-				},
-				{
-					"id": 2,
-					"auxChannelIndex": 1,
-					"range": {
-						"start": 1400,
-						"end": 1600
+						"start": 1925,
+						"end": 2100
 					}
 				},
 				{
@@ -198,6 +182,22 @@
 					"range": {
 						"start": 1850,
 						"end": 2100
+					}
+				},
+				{
+					"id": 0,
+					"auxChannelIndex": 0,
+					"range": {
+						"start": 900,
+						"end": 900
+					}
+				},
+				{
+					"id": 0,
+					"auxChannelIndex": 0,
+					"range": {
+						"start": 900,
+						"end": 900
 					}
 				},
 				{
@@ -641,15 +641,7 @@
 					"id": 0,
 					"auxChannelIndex": 0,
 					"range": {
-						"start": 925,
-						"end": 1050
-					}
-				},
-				{
-					"id": 4,
-					"auxChannelIndex": 0,
-					"range": {
-						"start": 900,
+						"start": 1925,
 						"end": 2100
 					}
 				},
@@ -657,16 +649,8 @@
 					"id": 1,
 					"auxChannelIndex": 1,
 					"range": {
-						"start": 925,
-						"end": 1100
-					}
-				},
-				{
-					"id": 2,
-					"auxChannelIndex": 1,
-					"range": {
-						"start": 1400,
-						"end": 1600
+						"start": 1925,
+						"end": 2100
 					}
 				},
 				{
@@ -675,6 +659,22 @@
 					"range": {
 						"start": 1850,
 						"end": 2100
+					}
+				},
+				{
+					"id": 0,
+					"auxChannelIndex": 0,
+					"range": {
+						"start": 900,
+						"end": 900
+					}
+				},
+				{
+					"id": 0,
+					"auxChannelIndex": 0,
+					"range": {
+						"start": 900,
+						"end": 900
 					}
 				},
 				{
@@ -1118,15 +1118,7 @@
 					"id": 0,
 					"auxChannelIndex": 0,
 					"range": {
-						"start": 925,
-						"end": 1050
-					}
-				},
-				{
-					"id": 4,
-					"auxChannelIndex": 0,
-					"range": {
-						"start": 900,
+						"start": 1925,
 						"end": 2100
 					}
 				},
@@ -1134,16 +1126,8 @@
 					"id": 1,
 					"auxChannelIndex": 1,
 					"range": {
-						"start": 925,
-						"end": 1100
-					}
-				},
-				{
-					"id": 2,
-					"auxChannelIndex": 1,
-					"range": {
-						"start": 1400,
-						"end": 1600
+						"start": 1925,
+						"end": 2100
 					}
 				},
 				{
@@ -1152,6 +1136,22 @@
 					"range": {
 						"start": 1850,
 						"end": 2100
+					}
+				},
+				{
+					"id": 0,
+					"auxChannelIndex": 0,
+					"range": {
+						"start": 900,
+						"end": 900
+					}
+				},
+				{
+					"id": 0,
+					"auxChannelIndex": 0,
+					"range": {
+						"start": 900,
+						"end": 900
 					}
 				},
 				{
@@ -1450,7 +1450,7 @@
 		"vbatmincellvoltage": 3.3,
 		"vbatmaxcellvoltage": 4.3,
 		"vbatwarningcellvoltage": 3.5,
-		"batterymetertype": 0
+		"batterymetertype": 1
 	},
 	"RCMAP": [
 		1,
@@ -1609,7 +1609,7 @@
 		"board_align_yaw": 0,
 		"currentscale": 233,
 		"currentoffset": 0,
-		"currentmetertype": 1,
+		"currentmetertype": 0,
 		"batterycapacity": 0
 	},
 	"SERIAL_CONFIG": {

@@ -191,17 +191,17 @@ osd_rssi_alarm = 20
 osd_cap_alarm = 1200
 osd_time_alarm = 10
 osd_alt_alarm = 100
-osd_vbat_pos = 2369
-osd_rssi_pos = 2390
-osd_flytimer_pos = 2454
-osd_ontimer_pos = 2422
+osd_vbat_pos = 2113
+osd_rssi_pos = 2106
+osd_flytimer_pos = 2135
+osd_ontimer_pos = 87
 osd_flymode_pos = 2102
 osd_throttle_pos = 129
 osd_vtx_channel_pos = 200
 osd_crosshairs = 2048
 osd_horizon_pos = 2248
-osd_current_pos = 2401
-osd_mah_drawn_pos = 2433
+osd_current_pos = 2093
+osd_mah_drawn_pos = 2145
 osd_craft_name_pos = 2081
 osd_gps_speed_pos = 66
 osd_gps_sats_pos = 386
@@ -220,4 +220,4 @@ displayport_msp_row_adjust = 0
 displayport_max7456_col_adjust = 0
 displayport_max7456_row_adjust = 0
 
-#
+# 
