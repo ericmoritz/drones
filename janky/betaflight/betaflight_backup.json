@@ -59,18 +59,18 @@
 				]
 			],
 			"RC": {
-				"RC_RATE": 1,
-				"RC_EXPO": 0,
+				"RC_RATE": 0.75,
+				"RC_EXPO": 0.3,
 				"roll_pitch_rate": 0,
-				"roll_rate": 0.7,
-				"pitch_rate": 0.7,
-				"yaw_rate": 0.7,
+				"roll_rate": 0.86,
+				"pitch_rate": 0.86,
+				"yaw_rate": 0.82,
 				"dynamic_THR_PID": 0.1,
-				"throttle_MID": 0.5,
-				"throttle_EXPO": 0,
+				"throttle_MID": 1,
+				"throttle_EXPO": 0.3,
 				"dynamic_THR_breakpoint": 1650,
-				"RC_YAW_EXPO": 0,
-				"rcYawRate": 1
+				"RC_YAW_EXPO": 0.3,
+				"rcYawRate": 0.75
 			},
 			"AccTrim": [
 				0,
@@ -169,11 +169,11 @@
 					}
 				},
 				{
-					"id": 28,
+					"id": 4,
 					"auxChannelIndex": 0,
 					"range": {
-						"start": 925,
-						"end": 1050
+						"start": 900,
+						"end": 2100
 					}
 				},
 				{
@@ -201,11 +201,11 @@
 					}
 				},
 				{
-					"id": 17,
-					"auxChannelIndex": 3,
+					"id": 0,
+					"auxChannelIndex": 0,
 					"range": {
 						"start": 900,
-						"end": 1075
+						"end": 900
 					}
 				},
 				{
@@ -646,11 +646,11 @@
 					}
 				},
 				{
-					"id": 28,
+					"id": 4,
 					"auxChannelIndex": 0,
 					"range": {
-						"start": 925,
-						"end": 1050
+						"start": 900,
+						"end": 2100
 					}
 				},
 				{
@@ -678,11 +678,11 @@
 					}
 				},
 				{
-					"id": 17,
-					"auxChannelIndex": 3,
+					"id": 0,
+					"auxChannelIndex": 0,
 					"range": {
 						"start": 900,
-						"end": 1075
+						"end": 900
 					}
 				},
 				{
@@ -1123,11 +1123,11 @@
 					}
 				},
 				{
-					"id": 28,
+					"id": 4,
 					"auxChannelIndex": 0,
 					"range": {
-						"start": 925,
-						"end": 1050
+						"start": 900,
+						"end": 2100
 					}
 				},
 				{
@@ -1155,11 +1155,11 @@
 					}
 				},
 				{
-					"id": 17,
-					"auxChannelIndex": 3,
+					"id": 0,
+					"auxChannelIndex": 0,
 					"range": {
 						"start": 900,
-						"end": 1075
+						"end": 900
 					}
 				},
 				{
@@ -1450,7 +1450,7 @@
 		"vbatmincellvoltage": 3.3,
 		"vbatmaxcellvoltage": 4.3,
 		"vbatwarningcellvoltage": 3.5,
-		"batterymetertype": 1
+		"batterymetertype": 0
 	},
 	"RCMAP": [
 		1,
@@ -1602,14 +1602,14 @@
 					"name": "ESC_SENSOR"
 				}
 			],
-			"_featureMask": 9178378
+			"_featureMask": 13372682
 		},
 		"board_align_roll": 0,
 		"board_align_pitch": 0,
 		"board_align_yaw": 0,
-		"currentscale": 220,
+		"currentscale": 233,
 		"currentoffset": 0,
-		"currentmetertype": 0,
+		"currentmetertype": 1,
 		"batterycapacity": 0
 	},
 	"SERIAL_CONFIG": {
