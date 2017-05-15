@@ -60,16 +60,16 @@
 			],
 			"RC": {
 				"RC_RATE": 0.75,
-				"RC_EXPO": 0.3,
+				"RC_EXPO": 0,
 				"roll_pitch_rate": 0,
 				"roll_rate": 0.86,
 				"pitch_rate": 0.86,
-				"yaw_rate": 0.82,
+				"yaw_rate": 0.86,
 				"dynamic_THR_PID": 0.1,
 				"throttle_MID": 1,
-				"throttle_EXPO": 0.3,
+				"throttle_EXPO": 0,
 				"dynamic_THR_breakpoint": 1650,
-				"RC_YAW_EXPO": 0.3,
+				"RC_YAW_EXPO": 0,
 				"rcYawRate": 0.75
 			},
 			"AccTrim": [
